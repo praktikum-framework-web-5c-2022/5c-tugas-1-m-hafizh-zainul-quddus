@@ -17,7 +17,7 @@
                   <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav m-auto">
                       <li class="nav-item">
-                        <a class="nav-link @yield('active1')" aria-current="page" href="/dosen">DOSEN</a>
+                        <a class="nav-link @yield('active1')" aria-current="page" href="/">DOSEN</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link @yield('active2')" href="/mahasiswa">MAHASISWA</a>

@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/dosen', function () {
+Route::get('/', function () {
     $dsn = [
         'Sayuti S.kom',
         'Siti maimunah S.kom',
